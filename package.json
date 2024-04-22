@@ -1,0 +1,11 @@
+{
+  "name": "skeleton-node",
+  "version": "1.0.0",
+  "description": "This repository is part of my skeleton project series. I aim to configure a simple skeleton project in Node.JS so that I can quickly start new projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
